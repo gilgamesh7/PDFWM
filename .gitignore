@@ -110,6 +110,8 @@ ENV/
 env.bak/
 venv.bak/
 .vscode/
+removePDFWM - Copy.py
+output.pdf
 
 # Spyder project settings
 .spyderproject
